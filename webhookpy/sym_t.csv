@@ -1,0 +1,307 @@
+syd,symptom
+1,upper abdominal pain
+2,lower abdominal pain
+3,abscess
+4,alcohol abuse
+5,anxiety
+6,arm ache
+7,back ache
+8,bleeding tendency
+9,blood in vomit
+10,bloody diarrhea
+11,soreness of breast
+12,calf pain
+13,chest pressure
+14,chills
+15,change in behavior
+16,constipation
+17,cough
+18,dark stools
+19,depressed
+20,diarrhea
+21,dizziness
+22,double vision
+23,ear pressure
+24,pain in the ear
+25,elbow ache or pain
+26,eye pain
+27,facial pain
+28,fainting
+29,fever
+30,fever in the returning traveler
+31,fever of unknown origin
+32,flank pain
+33,frequent urination
+34,abcd
+35,foot pain
+36,"cranky, crying, fussy, irritable child"
+37,groin pain
+38,delusions or hallucinations
+39,"hand, finger ache or pain"
+40,head injury
+41,headache
+42,heel pain
+43,heat illness
+44,abcd
+45,hip pain
+46,hives
+47,hoarse voice
+48,hypothermia
+49,incontinence
+50,insect sting
+51,insomnia
+52,skin itching
+53,joint pain
+54,kidney pain
+55,knee pain
+56,laceration
+57,leg ache
+58,swelling of both legs
+59,lethargy
+60,abcd
+61,mouth pain
+62,muscle pain
+63,nail injury
+64,nasal bleeding
+65,nasal injury
+66,nausea
+67,neck ache
+68,neck swelling
+69,numbness
+70,obesity
+71,overdose
+72,painful urination
+73,heart pulsations and palpitations
+74,pelvic pain
+75,penile discharge
+76,penis pain
+77,poisoning
+78,pregnancy problem
+79,psychiatric problem
+80,puncture wound
+81,rash
+82,rectal pain
+83,rectal swelling
+84,ancd
+85,scrotal pain
+86,scrotal swelling
+87,seizure
+88,shortness of breath
+89,shoulder ache
+90,sinus pain and pressure
+91,skin trauma
+92,snake bite
+93,sore throat
+94,speech problem
+95,spider bite
+96,substance abuse
+97,suicidal tendencies
+98,swallowing problem
+99,swelling
+100,toe pain
+101,tooth pain
+102,trauma
+103,traveler's diarrhea
+104,unsteady gait 
+105,vaginal bleeding
+106,vaginal bleeding after menopause
+107,vaginal bleeding during pregnancy
+108,vaginal discharge
+109,vaginal itching
+110,vaginal pain
+111,vertigo
+112,visual problems
+113,vomiting
+114,general weakness
+115,weakness 
+116,tired
+117,abcd
+118,wrist pain
+119,abcd
+120,throat pain
+121,tremors
+122,abcd
+123,weight loss
+124,abcd
+125,abcd
+126,tongue swelling
+127,abcd
+128,inconsolable baby
+129,wheezing 
+130,abcd
+131,swollen lymph nodes
+132,failure to thrive
+133,abcd
+134,abcd
+135,abcd
+136,behavioral problem
+137,abcd
+138,abcd
+139,itchy rash
+140,abcd
+141,abcd
+142,abcd
+143,abcd
+144,headache after trauma
+145,learning difficulties
+146,blood in urine 
+147,urinary retention 
+148,liver failure
+149,choking
+150,abcd
+151,painful rash
+152,ingestion
+153,abcd
+154,melena 
+155,vomiting coffee ground material
+156,ringing in ears 
+157,mouth ulcers
+158,mouth swelling
+159,eye redness
+160,sneezing
+161,abcd
+162,bleeding gums
+163,loss of balance
+164,bleeding in brain
+165,cyanosis
+166,abcd
+167,abcd
+168,abcd
+169,abcd
+170,muscle spasm
+171,drooling
+172,abdominal swelling 
+173,skin growths
+174,abcd
+175,hand numbness
+176,ankle pain
+177,hemoptysis 
+178,jaundice 
+179,night sweats
+180,flatulence
+181,abcd
+182,blister 
+183,hair loss
+184,abcd
+185,abcd
+186,jaw pain
+187,impotence
+188,heart murmur
+189,pustule
+190,skin pain
+191,hot skin
+192,skin swelling
+193,lip swelling
+194,eye swelling
+195,foot swelling
+196,visual flashing lights
+197,eye floaters
+198,amenorrhea 
+199,blurry vision
+200,abcd
+201,painful gums
+202,swollen gums
+203,low blood sugar
+204,low blood pressure
+205,darkening of the skin
+206,low heart rate
+207,foot itching
+208,hot flashes
+209,abcd
+210,infertility
+211,increased facial hair
+212,arm swelling
+213,calf swelling
+214,abcd
+215,ear swelling
+216,wrist swelling
+217,maroon stools
+218,arm cut
+219,hand cut 
+220,leg cut
+221,foot cut
+222,abcd
+223,abcd
+224,arm itching
+225,hand redness
+226,foot redness
+227,arm redness
+228,leg redness
+229,hand itching
+230,leg itching
+231,steatorrhea 
+232,upper leg pain
+233,armpit pain
+234,sweating
+235,nasal congestion
+236,joint stiffness
+237,skin sores
+238,chest burning
+239,memory loss
+240,arm numbness
+241,leg numbness
+242,foot numbness 
+243,face numbness 
+244,abcd
+245,dementia
+246,facial droop
+247,limping in a child
+248,increased thirst
+249,increased urination
+250,shin pain
+251,stings
+252,sleep disorders
+253,abcd
+254,drooping eyelid
+255,snoring
+256,abcd
+257,dry skin
+258,itchy eyes
+259,elbow swelling
+260,abcd
+261,chest pain
+262,skin infection
+263,stomach pain
+264,anger
+265,hurts to breathe
+266,abcd
+267,abcd
+268,abcd
+269,difficulty breathing
+270,pulling at ears
+271,skin bumps
+272,congestion in chest or lungs
+273,discharge from ear
+274,low back ache or pain
+275,unusual color or odor of urine
+276,abcd
+277,penis inflammation or swelling
+278,abcd
+279,abcd
+280,abcd
+281,excessive appetite
+282,retaining fluid
+283,abcd
+284,lump or mass of breast
+285,abcd
+286,abcd
+287,neck stiffness or tightness
+288,abcd
+289,abcd
+290,agitated
+291,confusion
+292,headache and weakness
+293,confusion and headache
+294,nipple discharge
+295,shoulder stiffness or tightness
+296,abcd
+297,abcd
+298,abcd
+299,abcd
+300,abcd
+301,arm stiffness or tightness
+302,abcd
+303,high blood pressure
+304,high blood sugar
+305,abcd
+306,abcd
